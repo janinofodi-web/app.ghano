@@ -1,0 +1,6 @@
+{
+  "name": "نور الإسلام",
+  "description": "تطبيق إسلامي شامل واحترافي: مصحف إلكتروني كامل، مواقيت الصلاة والأذان، بوصلة القبلة، الأذكار والأدعية، السبحة الإلكترونية المتقدمة، مكتبة الحديث، والقصص الإسلامية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
